@@ -189,21 +189,17 @@
             </div>
 
             <div class="masonry-thumbs col-6" data-big="3" data-lightbox="gallery">
-                <a href="images/gallery/1.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/1.jpg" alt="Gallery Thumb 1"></a>
-                <a href="images/gallery/2.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/2.jpg" alt="Gallery Thumb 2"></a>
-                <a href="images/gallery/3.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/3.jpg" alt="Gallery Thumb 3"></a>
-                <a href="images/gallery/4.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/4.jpg" alt="Gallery Thumb 4"></a>
-                <a href="images/gallery/5.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/5.jpg" alt="Gallery Thumb 5"></a>
-                <a href="images/gallery/6.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/6.jpg" alt="Gallery Thumb 6"></a>
-                <a href="images/gallery/7.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/7.jpg" alt="Gallery Thumb 7"></a>
-                <a href="images/gallery/8.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/8.jpg" alt="Gallery Thumb 8"></a>
-                <a href="images/gallery/9.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/9.jpg" alt="Gallery Thumb 9"></a>
-                <a href="images/gallery/10.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/10.jpg" alt="Gallery Thumb 10"></a>
-                <a href="images/gallery/11.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/11.jpg" alt="Gallery Thumb 11"></a>
-                <a href="images/gallery/12.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/12.jpg" alt="Gallery Thumb 12"></a>
-                <a href="images/gallery/13.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/13.jpg" alt="Gallery Thumb 13"></a>
-                <a href="images/gallery/14.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/14.jpg" alt="Gallery Thumb 14"></a>
-                <a href="images/gallery/15.jpg" data-lightbox="gallery-item"><img src="images/gallery/thumbs/15.jpg" alt="Gallery Thumb 15"></a>
+                <a href="images/gallery/1.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/1.png" alt="Gallery Thumb 1"></a>
+                <a href="images/gallery/2.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/2.png" alt="Gallery Thumb 2"></a>
+                <a href="images/gallery/3.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/3.png" alt="Gallery Thumb 3"></a>
+                <a href="images/gallery/4.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/4.png" alt="Gallery Thumb 4"></a>
+                <a href="images/gallery/5.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/5.png" alt="Gallery Thumb 5"></a>
+                <a href="images/gallery/6.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/6.png" alt="Gallery Thumb 6"></a>
+                <a href="images/gallery/7.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/7.png" alt="Gallery Thumb 7"></a>
+                <a href="images/gallery/8.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/8.png" alt="Gallery Thumb 8"></a>
+                <a href="images/gallery/9.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/9.png" alt="Gallery Thumb 9"></a>
+                <a href="images/gallery/10.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/10.png" alt="Gallery Thumb 10"></a>
+                <a href="images/gallery/11.png" data-lightbox="gallery-item"><img src="images/gallery/thumbs/11.png" alt="Gallery Thumb 11"></a>
             </div>
 
             <div class="section nomargin nobg clearfix">
